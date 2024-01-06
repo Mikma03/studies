@@ -1,0 +1,49 @@
+# Ignore common Python files and directories
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Ignore development and IDE files
+.vscode/
+.idea/
+*.egg-info/
+*.egg
+*.venv/
+*.env
+
+# Ignore version control files
+.git/
+.gitignore
+.gitattributes
+
+# Ignore project-specific files and directories
+*.log
+*.txt
+*.csv
+*.json
+*.xml
+*.html
+*.md
+*.pdf
+
+# Ignore build artifacts and dependencies
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.o
+*.a
+*.dll
+*.exe
+*.out
+*.log
+*.swp
+*.swo
+*.sln
+*.vcxproj
+*.vs/
+*.egg-info/
+dist/
+build/
+venv/
