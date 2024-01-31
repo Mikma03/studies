@@ -1,0 +1,31 @@
+---
+pagetitle: MLOps notatki Mikolaj Maslanka
+faculty: Instytut Informatyki
+typ_studiow: Studia Podyplomowe
+nazwa_studiow: Data Science - Programowanie w R i Python
+title: 
+subtitle: 
+author: Mikolaj Maslanka
+title_of_thesis: Notatki do prezentacji na temat MLOps z wykorzystaniem AWS
+date:
+location: Warszawa, 2024
+supervisor:
+- Pawel Jamer
+degree: 
+eqnPrefix:
+  - "Equation"
+  - "Equations"
+figPrefix:
+  - "Figure"
+  - "Figures"
+secPrefix:
+  - "Section"
+  - "Sections"
+tblPrefix:
+  - "Table"
+  - "Tables"
+lstPrefix:
+  - "Listing"
+  - "Listings"
+codeBlockCaptions: true
+---
